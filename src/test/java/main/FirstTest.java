@@ -13,7 +13,7 @@ public class FirstTest {
     {
         int a = 2, b = 2;
         int res = General.sum(a, b);
-        assertEquals(4, res);
-//        assertEquals(5, res);
+//        assertEquals(4, res);
+        assertEquals(5, res);
     }
 }
